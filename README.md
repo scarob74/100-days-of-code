@@ -37,7 +37,7 @@
 
 ----------
 <a name="day-2"></a>
-### Day 1: January 09, 2020
+### Day 2: January 09, 2020
 
 **Today's Focus**: _TODO_
 
@@ -56,7 +56,7 @@
 
 ----------
 <a name="day-3"></a>
-### Day 1: January 10, 2020
+### Day 3: January 10, 2020
 
 **Today's Focus**: _TODO_
 
@@ -75,7 +75,7 @@
 
 ----------
 <a name="day-4"></a>
-### Day 1: January 11, 2020
+### Day 4: January 11, 2020
 
 **Today's Focus**: _TODO_
 
@@ -94,7 +94,7 @@
 
 ----------
 <a name="day-5"></a>
-### Day 1: January 12, 2020
+### Day 5: January 12, 2020
 
 **Today's Focus**: _TODO_
 
@@ -111,3 +111,289 @@
 [Table of Contents](#toc)
 
 
+----------
+<a name="day-6"></a>
+### Day 6: January 13, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-7"></a>
+### Day 7: January 14, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-8"></a>
+### Day 8: January 15, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-9"></a>
+### Day 9: January 16, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-10"></a>
+### Day 10: January 17, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-11"></a>
+### Day 11: January 18, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-12"></a>
+### Day 12: January 19, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-13"></a>
+### Day 13: January 20, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-14"></a>
+### Day 14: January 21, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-15"></a>
+### Day 15: January 22, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-16"></a>
+### Day 16: January 23, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-17"></a>
+### Day 17: January 24, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-18"></a>
+### Day 18: January 25, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-19"></a>
+### Day 19: January 26, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
+<a name="day-20"></a>
+### Day 20: January 27, 2020
+
+**Today's Focus**: _TODO_
+
+**Details**:
+
+ - _TODO_
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+
+**Link to work**: [Here](#)
+
+[Table of Contents](#toc)
+
+
+----------
