@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **08/01/20**| _TODO_ |[Day 2](#day-2) **09/01/20**| _TODO_ |
+|[Day 1](#day-1) **08/01/21**| _TODO_ |[Day 2](#day-2) **09/01/20**| _TODO_ |
 |[Day 3](#day-3) **10/01/20**| _TODO_ |[Day 4](#day-4) **11/01/20**| _TODO_ |
 |[Day 5](#day-5) **12/01/20**| _TODO_ |[Day 6](#day-6) **13/01/20**| _TODO_ |
 |[Day 7](#day-7) **14/01/20**| _TODO_ |[Day 8](#day-8) **15/01/20**| _TODO_ |
@@ -37,7 +37,7 @@
 
 ----------
 <a name="day-2"></a>
-### Day 2: January 09, 2020
+### Day 2: January 09, 2021
 
 **Today's Focus**: _TODO_
 
